@@ -1,5 +1,5 @@
 # React Tic-Tac-Toe
-
+[Game link](https://lohithreddyporeddy.github.io/Tic-Tac-Toe/)
 A simple Tic-Tac-Toe game built with React.
 
 ## Table of Contents
